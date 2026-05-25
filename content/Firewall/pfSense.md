@@ -1,3 +1,5 @@
+See also: [[Table of contents]]
+
 To begin building out the lab environment, I decided to start with the firewall infrastructure. Since the firewall acts as the primary entry point for traffic into the network, getting it configured properly is an important first step. I chose to use pfSense, a free and open-source firewall and routing platform widely used in homelab and enterprise environments alike.
 
 While researching how to deploy pfSense within Proxmox VE, I found an excellent guide in the official Netgate documentation [here](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html)
@@ -65,3 +67,5 @@ End: 192.168.10.200
 At this point, the firewall was fully operational and successfully serving as the gateway for the isolated lab environment.
 
 now I have a working Firewall!
+
+See next: [[Networking in Proxmox]]

@@ -10,7 +10,6 @@ Following the core infrastructure deployment, I plan to expand the lab’s defen
 
 Planned VLAN structure:
 
-VLAN	Purpose
 10	Management
 20	Servers
 30	Workstations
