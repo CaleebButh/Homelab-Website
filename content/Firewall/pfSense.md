@@ -68,4 +68,6 @@ At this point, the firewall was fully operational and successfully serving as th
 
 now I have a working Firewall!
 
-See next: [[Networking in Proxmox]]
+
+See next: [[Setting up windows server 2022 for AD]]
+See also: [[Networking in Proxmox]]
