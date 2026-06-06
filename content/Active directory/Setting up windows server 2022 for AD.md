@@ -1,4 +1,4 @@
-See also: [[Table of contents]]
+See also: [[Table of contents]], 
 
 With the firewall configured and the initial network topology established, the next step was deploying an Active Directory environment. To guide the setup process, I followed the official Proxmox Windows Server best practices documentation, available [here](https://pve.proxmox.com/wiki/Windows_2022_guest_best_practices).
 
@@ -79,4 +79,7 @@ With these components installed, the Windows Server VM now has:
 - accurate resource reporting
 - better Proxmox integration
 
-At this point, the Windows Server 2022 VM is fully operational and ready to be promoted into an Active Directory domain controller.
+At this point, the Windows Server 2022 VM is fully operational and ready to be for an active directory install, and a promotion to a domain controller.
+
+See next: [[Setting up active directory]]
+See also [[Notes on active directory]]

@@ -27,7 +27,7 @@ Select server roles:
 Installation page:
 ![[Pasted image 20260528223151.png]]
 
-Now it's time to promote it to a domain controller!
+<h1>Promoting to a domain controller</h1>
 ![[Pasted image 20260528223345.png]]
 
 From here We will create a new forest:
@@ -39,7 +39,7 @@ Installation page:
 Following the reboot, I set the DNS server back to referring to itself. A domain controller should use itself for DNS.
 ![[Pasted image 20260528225318.png]]
 
-now we have to configure the DNS forwarders.
+<h1>Setting the DNS forwarders.</h1>
 
 Server manager > tools > DNS > select the DC > Forwarders >  Added two forwarders. This is so internal domain lookups stay on the DC while internet lookups go out to pfSense/cloudflare.
 ![[Pasted image 20260528225656.png]]
