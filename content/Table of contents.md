@@ -6,8 +6,10 @@ Start with: [[pfSense]]
 [[Firewall Troubleshooting]]
 [[Creating the lab structure]]
 [[Joining a windows machine to the domain]]
+[[VaultWarden password manager]]
 
 Notes/References:
 
 [[Notes on active directory]]
 [[Important IPs]]
+[[Useful scripts and commands]]

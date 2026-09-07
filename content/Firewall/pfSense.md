@@ -70,4 +70,4 @@ now I have a working Firewall!
 
 
 See next: [[Setting up windows server 2022 for AD]]
-See also: [[Networking in Proxmox]]
+See also: [[Networking in Proxmox]], [[Hardening Pfsense]]
