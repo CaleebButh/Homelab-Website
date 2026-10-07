@@ -41,8 +41,8 @@ I set one for the main domain controller, one for the firewall and one for vault
 
 Vaultwarden was initially not working properly because the Kuma server did not trust the certificate of the vaultwarden server. I fixed this by adding the root certificate as a read-only mount in the compose.yaml file for Kuma. 
 
-
-
+Next, I decided to get back to the task at hand and get working on my security tooling. 
+[[Wazuh v2]]
 
 
 
